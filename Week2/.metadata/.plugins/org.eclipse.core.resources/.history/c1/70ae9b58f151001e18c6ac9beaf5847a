@@ -1,0 +1,13 @@
+package controler;
+
+import org.junit.Test;
+
+
+public class TestNames {
+	
+	@Test
+	public void testadd() {
+		DiamondShape = new DiamondShape();
+	}
+
+}

@@ -1,0 +1,17 @@
+package controler;
+
+import org.junit.Test;
+
+
+class TestNames {
+	
+	
+	private Name name; 
+	
+	@BeforeEach
+	void setUp() {
+		
+	}
+	
+
+}

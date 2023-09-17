@@ -1,0 +1,27 @@
+package controler;
+
+import static org.junit.Assert.assertEquals;
+
+import org.junit.Test;
+import FullName;
+
+
+public class FullNameTest {
+	public FullName fullName;
+	
+    @Test
+    void getFirstName() {
+    	fullName = new FullName();
+    	fullName.setFirstName("Hong");
+    	assertEquals("Hong", fullName.getFirstName());
+    }
+   
+//    @Test
+//    void getLastName() {
+//    fullName.setLastName("Huynh");
+//    assertEquals("Hong", fullName.getLastName());
+//    	
+    	
+ 
+//    }
+}

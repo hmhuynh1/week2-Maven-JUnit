@@ -1,0 +1,12 @@
+package controler;
+
+import org.junit.Test;
+
+
+public class TestNames {
+	
+	@Test
+	private NameTest() {
+	
+
+}

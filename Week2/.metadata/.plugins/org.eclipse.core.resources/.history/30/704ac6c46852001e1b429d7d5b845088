@@ -1,0 +1,12 @@
+package controler;
+
+import org.junit.Test;
+
+
+class DiamondShapeStarPatternTest {
+ 
+    @Test
+    void e() {
+ 
+    }
+}
