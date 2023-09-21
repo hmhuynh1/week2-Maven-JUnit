@@ -20,9 +20,9 @@ public class FullNameTest {
 	
 	@Test
 	public void getFullName() {
-		fullName.setFirstName("lisa");
-		fullName.setLastName("simpson");
-		assertEquals("LISA SIMPSON", fullName.getFullName());
+		fullName.setFirstName("hong");
+		fullName.setLastName("huynh");
+		assertEquals("HONG HUYNH", fullName.getFullName());
 		
 	}
 	
